@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 # Bot Configuration
 API_ID = "23054736"
 API_HASH = "d538c2e1a687d414f5c3dce7bf4a743c"
-BOT_TOKEN = "8191629598:AAGgTnh3sr3O4a-XocrxwjMw1lYudrRmtzs"
+BOT_TOKEN = "8141040246:AAHvL29wbcIQZUInQTndBbPgWYG3GGP-fKs"
 CHANNEL_USERNAME = "@terao2"
 ADMIN_IDS = [1352497419]
 MONGO_URL = "mongodb+srv://saruku:saruku@saruku.zs6bg.mongodb.net/?retryWrites=true&w=majority&appName=saruku"
