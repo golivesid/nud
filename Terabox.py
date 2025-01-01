@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 # Bot Configuration
 API_ID = "23054736"
 API_HASH = "d538c2e1a687d414f5c3dce7bf4a743c"
-BOT_TOKEN = "8141040246:AAHvL29wbcIQZUInQTndBbPgWYG3GGP-fKs"
+BOT_TOKEN = "8191629598:AAHTvLFYxF_6VvKTamjw30iHec7dt0Gp4M0"
 CHANNEL_USERNAME = "@terao2"
 ADMIN_IDS = [1352497419]
 MONGO_URL = "mongodb+srv://saruku:saruku@saruku.zs6bg.mongodb.net/?retryWrites=true&w=majority&appName=saruku"
@@ -190,7 +190,7 @@ class CombinedBot:
         keyboard = InlineKeyboardMarkup([
             [
                 InlineKeyboardButton("✅ Join Channel", url=f"https://t.me/{CHANNEL_USERNAME.replace('@', '')}"),
-                InlineKeyboardButton("👨‍💻 Owner", url="https://t.me/Hmm_Smokie")
+                InlineKeyboardButton("👨‍💻 Owner", url="https://t.me/terao2")
             ]
         ])
 
@@ -249,7 +249,7 @@ class CombinedBot:
                 await status_message.delete()
                 await message.reply_photo(
                     photo=TERABOX_IMAGE,
-                    caption="Boom! Your File Link is Good to Go!\n\nＰＯＷＥＲＥＤ ＢＹ ＰＯＲＮＨＵＢ Ｘ ＴＥＲＡＢＯＸ",
+                    caption="terao2",
                     reply_markup=reply_markup
                 )
 
