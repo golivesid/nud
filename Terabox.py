@@ -16,13 +16,13 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Bot Configuration
-API_ID = "26490815"
-API_HASH = "b99d8504b8812f9ec395ec61c010ac32"
-BOT_TOKEN = "8156780217:AAEg_Tt1fYQF9SQlLHE5annBrvAhBlNTb6I"
-CHANNEL_USERNAME = "@BotCodeVerse"
-ADMIN_IDS = [1949883614]
-MONGO_URL = "mongodb+srv://Terabox:SmokieOfficial@cluster0.qmr4z.mongodb.net/Terabox?retryWrites=true&w=majority&appName=Cluster0"
-LOG_CHANNEL = -1001806351030  # Replace with your private channel ID
+API_ID = "23054736"
+API_HASH = "d538c2e1a687d414f5c3dce7bf4a743c"
+BOT_TOKEN = "8191629598:AAGgTnh3sr3O4a-XocrxwjMw1lYudrRmtzs"
+CHANNEL_USERNAME = "@terao2"
+ADMIN_IDS = [1352497419]
+MONGO_URL = "mongodb+srv://saruku:saruku@saruku.zs6bg.mongodb.net/?retryWrites=true&w=majority&appName=saruku"
+LOG_CHANNEL = -1002252063312  # Replace with your private channel ID
 
 # URLs and API Configuration
 WEBAPP_URL = "https://teraboxdownloader.top/video.php"
